@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "http://localhost:8080"
+  baseUrl: "afk-make.github.io/allotment-wiki"
   ignorePatterns:
     - private
     - templates
