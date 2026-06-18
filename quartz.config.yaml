@@ -148,7 +148,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -161,7 +161,7 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
@@ -186,13 +186,13 @@ plugins:
       position: left
       priority: 10
   - source: github:quartz-community/darkmode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
@@ -215,8 +215,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Home: /
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
