@@ -4,6 +4,7 @@ Equipment:
 - x10 30l Containers
 
 Seeds:
+- [ ] Can you see the tick?
 - [ ] [[Carrot 🌿 - Nantes 2]]
 - [ ] [[Carrot 🌿 - Chantenay Red Cored]]
 - [[Beetroot 🌿 - Boltardy]]
