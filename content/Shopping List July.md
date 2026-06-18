@@ -4,8 +4,8 @@ Equipment:
 - x10 30l Containers
 
 Seeds:
-- [[Carrot 🌿 - Nantes 2]]
-- [[Carrot 🌿 - Chantenay Red Cored]]
+- [ ] [[Carrot 🌿 - Nantes 2]]
+- [ ] [[Carrot 🌿 - Chantenay Red Cored]]
 - [[Beetroot 🌿 - Boltardy]]
 - [[Beetroot 🌿 - Detroit 2]]
 - [[Radish 🌿 - Watermelon]]
