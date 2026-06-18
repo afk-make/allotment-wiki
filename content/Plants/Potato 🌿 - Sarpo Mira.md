@@ -9,8 +9,8 @@ currently_growing: false
 location: Containers  
 previously_grown: false  
 seasons_grown:  
-planned: false
-added_to_kanban: false
+planned: true
+added_to_kanban: true
 
 sow_indoors_from:  
 sow_indoors_to:
@@ -49,6 +49,14 @@ grow_again: true
 personal_rating:
 ---
 
+## 2026 Notes
+
+Earlies
+
+Says plant out April to May but you can sow well into summer apparently and get a later harvest. Plant some in containers in July and August
+
+
+## General Notes
 Notes:
 
 - One of the most blight-resistant potato varieties available.
