@@ -1,5 +1,6 @@
 ---
 dashboard_month: Jul
+plant_search: ""
 ---
 
 ## 🌴 Currently Growing
@@ -205,6 +206,53 @@ dv.table(
       p.currently_growing
     ])
 );
+```
+
+
+
+
+## 🔎 Plant Search
+
+
+```meta-bind
+INPUT[text:plant_search]
+```
+```dataviewjs  
+let search = String(dv.current().plant_search ?? "").toLowerCase().trim();  
+  
+if (!search) {  
+dv.paragraph("Type a search term above to search plant properties.");  
+} else {  
+let plants = dv.pages('"Plants"')  
+.where(p => {  
+const searchable = Object.entries(p)  
+.filter(([key]) => key !== "file")  
+.flatMap(([key, value]) => {  
+if (Array.isArray(value)) return value;  
+return [value];  
+})  
+.map(v => String(v ?? "").toLowerCase())  
+.join(" ");  
+  
+return searchable.includes(search);  
+})  
+.sort(p => p.file.name);  
+  
+dv.header(2, `Plant search: ${dv.current().plant_search}`);  
+  
+dv.table(  
+["Plant", "Variety", "Family", "Category", "pH", "Harvest", "Flavour"],  
+plants.map(p => [  
+p.file.link,  
+p.variety ?? "",  
+p.family ?? "",  
+p.category ?? "",  
+p.ph ?? "",  
+`${p.harvest_from ?? ""}–${p.harvest_to ?? ""}`,  
+p.flavour ?? ""  
+])  
+);  
+}  
 ```
 
 

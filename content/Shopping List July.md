@@ -21,10 +21,19 @@ Seeds:
 
 - [ ] [[Swiss Chard 🌿 - Fordhook Giant]]
 
+- [ ] [[Kohlrabi 🌿 - Superschmelz]] or other variety
+
+- [ ] See if you can find bulb/Florence Fennel (Romanesco or Perfection varieties)
+
+
+
+
 Plants/Starters:
 - [ ] [[Leek 🧄 - Musselburgh]] plants
 
 - [ ] [[Potato 🌿 - Sarpo Mira]]
+
+
 
 Seed Potatoes
 

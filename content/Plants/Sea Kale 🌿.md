@@ -10,6 +10,7 @@ location: Garden
 previously_grown: false
 seasons_grown:
 planned: false
+added_to_kanban: false
 sow_indoors_from: Feb
 sow_indoors_to: Apr
 sow_outdoors_from: Mar
