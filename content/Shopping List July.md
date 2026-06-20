@@ -26,3 +26,15 @@ Plants/Starters:
 
 - [ ] [[Potato 🌿 - Sarpo Mira]]
 
+Seed Potatoes
+
+
+- [ ] [[Potato 🌿 - Charlotte]]
+
+- [ ] [[Potato 🌿 - Maris Peer]]
+
+- [ ] [[Potato 🌿 - Sarpo Mira]]
+
+
+
+

@@ -6,8 +6,7 @@ latin_name: Daucus carota subsp. sativus
 category: 🌿 Low Growing
 family: Apiaceae
 currently_growing: false
-location:
-  - - Large Bed D
+location: [[Large Bed D - Winter Crop]]
 previously_grown: false
 seasons_grown:
 planned: true
@@ -45,7 +44,49 @@ grow_again: true
 personal_rating:
 ---
 
-Notes:
+
+## 🔎 Details
+
+Other Names:
+Variety: Chantenay Red Cored
+Latin Name: Daucus carota subsp. sativus
+Category:  🌿 Low Growing
+Family: Apiaceae
+
+## 🗓️ When To Sow/Plant/Harvest
+
+Sow outdoors from: Mar
+Sow outdoors to: Jul
+Harvest from: Jul
+Harvest to: Nov
+
+
+## 🌦️ Conditions
+
+Sun: full sun
+Water: medium
+Soil: fertile, well-drained
+Ph: 6.0 - 7.0
+
+
+## 🔰 Currently Growing
+
+- [ ] Greenhouse
+- [ ] Bed
+	Which bed? -
+- [ ] Container
+	Where? -
+- [ ] Cage
+
+## 📝 Notes
+
+- Plan to grow some in [[Large Bed D - Winter Crop]] and some in [[Large Bed A - Christmas Dinner Bed]]
+- 
+
+
+
+## 📌 Extra Details
+
 
 - One of the classic stump-rooted carrot varieties.
 - Produces broad-shouldered, conical roots with a deep orange-red core.

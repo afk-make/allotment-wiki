@@ -6,7 +6,7 @@ latin_name: Daucus carota subsp. sativus
 category: 🌿 Low Growing  
 family: Apiaceae
 currently_growing: false  
-location: [[Large Bed D]]
+location: [[Large Bed D - Winter Crop]]
 previously_grown: false  
 seasons_grown:  
 planned: true
@@ -48,7 +48,51 @@ grow_again: true
 personal_rating:
 ---
 
-Notes:
+
+## 🔎 Details
+
+Other Names:
+Variety: Nantes 2
+Latin Name: Daucus carota subsp. sativus
+Category: 🌿 Low Growing  
+Family: Apiaceae
+
+## 🗓️ When To Sow/Plant/Harvest
+
+Sow Indoors from:  
+Sow Indoors to:
+Sow outdoors from: Mar  
+Sow outdoors to: Jul
+Plant out from:  
+Plant out to:
+Harvest from: Jun  
+Harvest to: Oct
+
+
+## 🌦️ Conditions
+
+Sun: full sun
+Water: medium
+Soil: light, stone-free, well-drained
+Ph: 6.0-7.0
+
+
+## 🔰 Currently Growing
+
+- [ ] Greenhouse
+- [ ] Bed
+	Which bed? -
+- [ ] Container
+	Where? -
+- [ ] Cage
+
+## 📝 Notes
+
+- Plan to grow in [[Large Bed D - Winter Crop]]
+
+
+
+## 📌 Extra Details
 
 - Classic Nantes-type summer carrot and one of the most widely grown carrot varieties.
 - Produces smooth cylindrical roots with blunt ends and very little core.

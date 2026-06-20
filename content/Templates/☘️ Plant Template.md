@@ -45,3 +45,49 @@ flavour:
 grow_again: true  
 personal_rating: 
 ---
+
+
+## 🔎 Details
+
+Other Names:
+Variety: 
+Latin Name: 
+Category:  
+Family: 
+
+## 🗓️ When To Sow/Plant/Harvest
+
+Sow Indoors from: 
+Sow Indoors to: 
+Sow outdoors from: 
+Sow outdoors to: 
+Plant out from: 
+Plant out to: 
+Harvest from: 
+Harvest to: 
+
+
+## 🌦️ Conditions
+
+Sun: 
+Water: 
+Soil: 
+Ph: 
+
+
+## 🔰 Currently Growing
+
+- [ ] Greenhouse
+- [ ] Bed
+	Which bed? -
+- [ ] Container
+	Where? -
+- [ ] Cage
+
+## 📝 Notes
+
+- 
+
+
+
+## 📌 Extra Details

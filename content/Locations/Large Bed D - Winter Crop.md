@@ -7,6 +7,6 @@ Full Rows:
 [[Carrot 🌿 - Chantenay Red Cored]]
 [[Beetroot 🌿 - Boltardy]]
 [[Radish 🌿 - Watermelon]]
-Black Spanish Radish  
+[[Radish 🌿 - Black Spanish Round]]
 ==Front of bed==
 

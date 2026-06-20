@@ -48,7 +48,52 @@ grow_again: true
 personal_rating:
 ---
 
-Notes:
+
+## 🔎 Details
+
+Other Names: 
+Variety: Golden Ball
+Latin Name: Brassica rapa
+Category:  🌿 Low Growing
+Family: Brassicaceae
+
+## 🗓️ When To Sow/Plant/Harvest
+
+Sow Indoors from: 
+Sow Indoors to: 
+Sow outdoors from: Mar
+Sow outdoors to: Aug
+Plant out from: 
+Plant out to: 
+Harvest from: Jun
+Harvest to: Nov
+
+
+## 🌦️ Conditions
+
+Sun: full sun to part shade
+Water: Medium
+Soil: fertile, moisture-retentive, well-drained
+Ph: 6.0 - 7.5
+
+
+## 🔰 Currently Growing
+
+- [ ] Greenhouse
+- [ ] Bed
+	Which bed? -
+- [ ] Container
+	Where? -
+- [ ] Cage
+
+## 📝 Notes
+
+- Plan to grow in [[Large Bed A - Christmas Dinner Bed]]
+
+
+
+## 📌 Extra Details
+
 
 - Traditional heirloom turnip dating back to the 19th century.
 - Produces smooth, round golden-yellow roots with yellow flesh.

@@ -8,8 +8,7 @@ latin_name: Beta vulgaris subsp. vulgaris
 category: 🌿 Low Growing
 family: Amaranthaceae
 currently_growing: false
-location:
-  - - Large Bed C - Winter Greens & Autumn Salad
+location: "[[Large Bed B - Winter Greens & Autumn Salad]]"
 previously_grown: false
 seasons_grown:
 planned: true
@@ -47,7 +46,52 @@ grow_again: true
 personal_rating:
 ---
 
-Notes:
+
+## 🔎 Details
+
+Other Names: Leaf Beet, Silver Beet
+Variety: Fordhook Giant
+Latin Name: Beta vulgaris subsp. vulgaris
+Category:  🌿 Low Growing
+Family: Amaranthaceae
+
+## 🗓️ When To Sow/Plant/Harvest
+
+Sow Indoors from: Feb
+Sow Indoors to: Apr
+Sow outdoors from: Mar 
+Sow outdoors to: Aug
+Plant out from: Apr
+Plant out to: Jun
+Harvest from: May
+Harvest to: Mar
+
+
+## 🌦️ Conditions
+
+Sun: full sun to part shade
+Water: Medium
+Soil: fertile, moisture-retentive, well-drained
+Ph: 6.0 - 7.5
+
+
+## 🔰 Currently Growing
+
+- [ ] Greenhouse
+- [ ] Bed
+	Which bed? -
+- [ ] Container
+	Where? -
+- [ ] Cage
+
+## 📝 Notes
+
+- Plan to grow in [[Large Bed A - Christmas Dinner Bed]] and [[Large Bed B - Winter Greens & Autumn Salad]]
+
+
+
+## 📌 Extra Details
+
 
 - Classic heirloom Swiss chard introduced in the 1930s and still one of the most popular varieties grown today.
 - Produces large dark green heavily savoyed leaves with broad white stems.

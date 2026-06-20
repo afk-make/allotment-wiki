@@ -8,7 +8,7 @@ latin_name: Beta vulgaris
 category: 🌿 Low Growing
 family: Amaranthaceae
 currently_growing: false
-location:
+location: [[Large Bed A - Christmas Dinner Bed]]
 previously_grown: false
 seasons_grown:
 planned: true
@@ -46,7 +46,52 @@ grow_again: true
 personal_rating:
 ---
 
-Notes:
+
+## 🔎 Details
+
+Other Names: Detroit 2 Crimson Globe
+Variety: Detroit 2
+Latin Name: Beta vulgaris
+Category:  🌿 Low Growing
+Family: Amaranthaceae
+
+## 🗓️ When To Sow/Plant/Harvest
+
+Sow Indoors from: Feb
+Sow Indoors to: Mar
+Sow outdoors from: Mar
+Sow outdoors to: Jul
+Plant out from: Mar
+Plant out to: May
+Harvest from: Jun
+Harvest to: Nov
+
+
+## 🌦️ Conditions
+
+Sun: Full Sun
+Water: Medium
+Soil: fertile, moisture-retentive, well-drained
+Ph: 6.0 - 7.5
+
+
+## 🔰 Currently Growing
+
+- [ ] Greenhouse
+- [ ] Bed
+	Which bed? -
+- [ ] Container
+	Where? -
+- [ ] Cage
+
+## 📝 Notes
+
+- Plan to grow in [[Large Bed A - Christmas Dinner Bed]]
+
+
+
+## 📌 Extra Details
+
 
 - Classic globe beetroot and one of the most dependable traditional varieties.
 - Produces smooth, round to slightly oval roots with deep maroon-red flesh.

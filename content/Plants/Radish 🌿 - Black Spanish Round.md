@@ -46,6 +46,51 @@ personal_rating:
 ---
 
 
+## 🔎 Details
+
+Other Names: Black Radish
+Variety: Black Spanish Round
+Latin Name: Raphanus sativus
+Category:  🌿 Low Growing
+Family: Brassicaceae
+
+## 🗓️ When To Sow/Plant/Harvest
+
+Sow Indoors from: 
+Sow Indoors to: 
+Sow outdoors from: Jul
+Sow outdoors to: Aug
+Plant out from: 
+Plant out to: 
+Harvest from: Oct
+Harvest to: Feb
+
+
+## 🌦️ Conditions
+
+Sun: Full Sun
+Water: Medium
+Soil: fertile, moisture-retentive, well-drained
+Ph: 6.0 - 7.5
+
+
+## 🔰 Currently Growing
+
+- [ ] Greenhouse
+- [ ] Bed
+	Which bed? -
+- [ ] Container
+	Where? -
+- [ ] Cage
+
+## 📝 Notes
+
+- Plan to grow in [[Large Bed A - Christmas Dinner Bed]] and [[Large Bed D - Winter Crop]]
+
+
+
+## 📌 Extra Details
+
 Rotate with [[Radish 🌿 - French Breakfast]] and [[Radish 🌿 - Watermelon]]
 A few notes on these three as a set:
 

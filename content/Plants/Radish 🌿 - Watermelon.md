@@ -7,7 +7,7 @@ latin_name: Raphanus sativus
 category: 🌿 Low Growing
 family: Brassicaceae
 currently_growing: false
-location: [[Large Bed D]]
+location: [[Large Bed D - Winter Crop]]
 previously_grown: false
 seasons_grown:
 planned: true
@@ -47,6 +47,53 @@ flavour: sweet, mild, slightly peppery
 grow_again: true
 personal_rating:
 ---
+
+
+
+## 🔎 Details
+
+Other Names: Roseheart Radish
+Variety: Watermelon
+Latin Name: Raphanus sativus
+Category:  🌿 Low Growing
+Family: Brassicaceae
+
+## 🗓️ When To Sow/Plant/Harvest
+
+Sow Indoors from: 
+Sow Indoors to: 
+Sow outdoors from: Jul
+Sow outdoors to: Aug
+Plant out from: 
+Plant out to: 
+Harvest from: Sep
+Harvest to: Nov
+
+
+## 🌦️ Conditions
+
+Sun: Full Sun
+Water: Medium
+Soil: fertile, moisture-retentive, well-drained
+Ph: 6.0 - 7.5
+
+
+## 🔰 Currently Growing
+
+- [ ] Greenhouse
+- [ ] Bed
+	Which bed? -
+- [ ] Container
+	Where? -
+- [ ] Cage
+
+## 📝 Notes
+
+- Plan to grow in [[Large Bed D - Winter Crop]]
+
+
+
+## 📌 Extra Details
 
 Rotate with [[Radish 🌿 - French Breakfast]] and [[Radish 🌿 - Black Spanish Round]]
 A few notes on these three as a set:

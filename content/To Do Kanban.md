@@ -47,7 +47,7 @@ kanban-plugin: board
 - [ ] Sow [[Turnip 🌿 - Golden Ball]] in [[Large Bed A - Christmas Dinner Bed]] sow again in Aug
 - [ ] Sow [[Swiss Chard 🌿 - Fordhook Giant]] in [[Large Bed B - Winter Greens & Autumn Salad]] & [[Large Bed A - Christmas Dinner Bed]] to Aug
 - [ ] Buy and plant out [[Leek 🧄 - Musselburgh]] in [[Large Bed A - Christmas Dinner Bed]]
-- [ ] Try and find potatoes for [[Xmas Potato Challenge]] Can plant early August [[Potato 🌿 - Sarpo Mira]]
+- [ ] Try and find potatoes for [[Xmas Potato Challenge]] Plant a container of each in June and again in early August [[Potato 🌿 - Charlotte]], [[Potato 🌿 - Maris Peer]], & [[Potato 🌿 - Sarpo Mira]]
 
 
 ## Aug 26

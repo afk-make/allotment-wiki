@@ -7,8 +7,7 @@ latin_name: Beta vulgaris
 category: 🌿 Low Growing
 family: Amaranthaceae
 currently_growing: false
-location:
-  - - Large Bed D
+location: [[Large Bed D - Winter Crop]]
 previously_grown: false
 seasons_grown:
 planned: true
@@ -48,7 +47,52 @@ grow_again: true
 personal_rating:
 ---
 
-Notes:
+
+## 🔎 Details
+
+Other Names:
+Variety: Boltardy
+Latin Name: Beta vulgaris
+Category:  🌿 Low Growing
+Family: Amaranthaceae
+
+## 🗓️ When To Sow/Plant/Harvest
+
+Sow Indoors from: Feb
+Sow Indoors to: Mar
+Sow outdoors from: Mar
+Sow outdoors to: Jul
+Plant out from: Mar
+Plant out to: May
+Harvest from: Jun
+Harvest to: Oct
+
+
+## 🌦️ Conditions
+
+Sun: Full Sun
+Water: Medium
+Soil: fertile, moisture-retentive, well-drained
+Ph: 6.0 - 7.5
+
+
+## 🔰 Currently Growing
+
+- [ ] Greenhouse
+- [ ] Bed
+	Which bed? -
+- [ ] Container
+	Where? -
+- [ ] Cage
+
+## 📝 Notes
+
+- Plan to grow in [[Large Bed D - Winter Crop]]
+
+
+
+## 📌 Extra Details
+
 
 - One of the most popular beetroot varieties grown in the UK.
 - RHS Award of Garden Merit (AGM) variety.

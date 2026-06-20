@@ -11,7 +11,6 @@ previously_grown: false
 seasons_grown:
 planned: true
 added_to_kanban: true
-
 sow_indoors_from: Jan
 sow_indoors_to: Apr
 sow_outdoors_from: Mar
@@ -46,7 +45,54 @@ grow_again: true
 personal_rating:
 ---
 
-### Harvest Timeline
+
+
+## 🔎 Details
+
+Other Names:
+Variety: Musselburgh
+Latin Name: Allium ampeloprasum var. porrum
+Category:  🧄 Alliums
+Family: Amaryllidaceae
+
+## 🗓️ When To Sow/Plant/Harvest
+
+Sow Indoors from: Jan
+Sow Indoors to: Apr
+Sow outdoors from: Mar 
+Sow outdoors to: May
+Plant out from: May
+Plant out to: Jul
+Harvest from: Nov
+Harvest to: Mar
+
+
+## 🌦️ Conditions
+
+Sun: Full Sun
+Water: Medium
+Soil: fertile, moisture-retentive
+Ph: 6.0 - 7.5
+
+
+## 🔰 Currently Growing
+
+- [ ] Greenhouse
+- [ ] Bed
+	Which bed? -
+- [ ] Container
+	Where? -
+- [ ] Cage
+
+## 📝 Notes
+
+- Plan to grow in [[Large Bed A - Christmas Dinner Bed]] need to find plants to plant out
+
+
+
+## 📌 Extra Details
+
+Harvest Timeline
 
 Together [[Leek 🧄 - Bandit]], [[Leek 🧄 - Musselburgh]], and [[Leek 🧄 - Giant Bulgarian]] varieties give:
 

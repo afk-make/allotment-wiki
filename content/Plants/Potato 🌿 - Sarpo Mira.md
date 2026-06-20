@@ -1,47 +1,43 @@
 ---
-name: Potato  
+name: Potato
 other_names:
 variety: Sarpo Mira
 latin_name: Solanum tuberosum
-category: 🌿 Low Growing  
+category: 🌿 Low Growing
 family: Solanaceae
-currently_growing: false  
-location: Containers  
-previously_grown: false  
-seasons_grown:  
+currently_growing: false
+location: Containers
+previously_grown: false
+seasons_grown:
 planned: true
 added_to_kanban: true
-
-sow_indoors_from:  
+sow_indoors_from:
 sow_indoors_to:
-sow_outdoors_from:  
+sow_outdoors_from:
 sow_outdoors_to:
-plant_out_from: Apr  
+plant_out_from: Apr
 plant_out_to: May
-harvest_from: Sep  
+harvest_from: Sep
 harvest_to: Oct
-
-height_cm: 80  
+height_cm: 80
 spread_cm: 60
-row_spacing_cm: 75  
+row_spacing_cm: 75
 plant_spacing_cm: 40
 perennial: false
 cultivation_type: maincrop
 growth_habit: bush
 companions:
-- "[[French Bean 🍇]]"
-- "[[Cabbage]]"
-- "[[Horseradish]]"
+  - "[[French Bean 🍇]]"
+  - "[[Cabbage]]"
+  - "[[Horseradish]]"
 avoid:
-- "[[Tomatillo 🌾 - Toma Verde]]"
-- "[[Tomatillo 🌾 - Purple de Milpa]]"
-
+  - "[[Tomatillo 🌾 - Toma Verde]]"
+  - "[[Tomatillo 🌾 - Purple de Milpa]]"
 sun: full sun
 water: medium-high
 soil: fertile, moisture-retentive, well-drained
 ph: 5.5-6.5
 rotation_group: potato
-
 difficulty: easy
 flavour_rating: 5
 flavour: rich, earthy, creamy
@@ -49,15 +45,56 @@ grow_again: true
 personal_rating:
 ---
 
-## 2026 Notes
+
+## 🔎 Details
+
+Other Names:
+Variety: Sarpo Mira
+Latin Name: Solanum tuberosum
+Category:  🌿 Low Growing
+Family: Solanaceae
+
+## 🗓️ When To Sow/Plant/Harvest
+
+Sow Indoors from: 
+Sow Indoors to: 
+Sow outdoors from: 
+Sow outdoors to: 
+Plant out from: Apr
+Plant out to: May
+Harvest from: Sep
+Harvest to: Oct
+
+
+## 🌦️ Conditions
+
+Sun: Full Sun
+Water: Medium-High
+Soil: fertile, moisture-retentive, well-drained
+Ph: 5.5-6.5
+
+
+## 🔰 Currently Growing
+
+- [ ] Greenhouse
+- [ ] Bed
+	Which bed? -
+- [ ] Container
+	Where? -
+- [ ] Cage
+
+## 📝 Notes
+
+2026 Notes
 
 Earlies
 
 Says plant out April to May but you can sow well into summer apparently and get a later harvest. Plant some in containers in July and August
 
+Do a container or two of these, as well as [[Potato 🌿 - Charlotte]] and [[Potato 🌿 - Maris Peer]]
 
-## General Notes
-Notes:
+## 📌 Extra Details
+
 
 - One of the most blight-resistant potato varieties available.
 - Late maincrop variety producing very heavy yields.
