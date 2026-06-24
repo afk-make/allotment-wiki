@@ -1,3 +1,8 @@
+![[Jim&JamiePic.PNG]]
+
+
+
+
 
 ## 🌴 Currently Growing
 ---
