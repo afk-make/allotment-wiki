@@ -2,7 +2,7 @@
 
 
 
-
+🛒 [[Shopping List July]]
 
 ## 🌴 Currently Growing
 ---
@@ -34,21 +34,6 @@ Containers:
 - [[Potato 🌿 - Charlotte]]
 - [[Potato 🌿 - Maris Peer]]
 - [[Potato 🌿 - Sarpo Mira]]
-
-
-
-
-## 🏠 Sow Indoors This Month
-
-
-
-
-## 🌱 Sow Outdoors This Month
-
-
-
-## 🥔 Plant Out This Month
-
 
 
 ## 🍽 Harvest This Month
