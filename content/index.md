@@ -3,6 +3,7 @@
 
 
 🛒 [[Shopping List July]]
+🗺️ [[Plot Map]]
 
 ## 🌴 Currently Growing
 ---
