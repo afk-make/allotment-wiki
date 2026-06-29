@@ -1,4 +1,5 @@
 Tuesday 29th June 2026
+
 2 rows in [[Large Bed E - Beans and Peas]]
 
 ### 1. Build the support first
@@ -38,6 +39,8 @@ Instead:
 ### 5. Mulch
 
 A 5 cm layer of compost, leaf mould or grass clippings around the plants will help keep the soil moist.
+
+Pick pods as soon as they are a good size. Don't let them stay on too long, the plant will stop producing new flowers.
 
 ## Looking at your seedlings
 
