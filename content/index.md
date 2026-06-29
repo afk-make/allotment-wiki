@@ -2,8 +2,9 @@
 
 
 
-🛒 [[Shopping List July]]
-🗺️ [[Plot Map]]
+- 🛒 [[Shopping List July]]
+- 🗺️ [[Plot Map]]
+- [[Plant Out Beans]]
 
 ## 🌴 Currently Growing
 ---
