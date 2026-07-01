@@ -4,7 +4,8 @@
 
 - 🛒 [[Shopping List July]]
 - 🗺️ [[Plot Map]]
-- [[Plant Out Beans]]
+- [[Plant Beans]]
+- [[Plant and Sow July]]
 
 ## 🌴 Currently Growing
 ---
