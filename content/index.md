@@ -6,6 +6,7 @@
 - 🗺️ [[Plot Map]]
 - [[Plant Beans]]
 - [[Plant and Sow July]]
+- Testing New Laptop Account for James
 
 ## 🌴 Currently Growing
 ---
