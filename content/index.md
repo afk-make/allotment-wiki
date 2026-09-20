@@ -2,11 +2,8 @@
 
 
 
-- 🛒 [[Shopping List July]]
+- 🛒 [[Shopping List September]]
 - 🗺️ [[Plot Map]]
-- [[Plant Beans]]
-- [[Plant and Sow July]]
-- [[Potatoes Marris Peer Containers]] 
 
 ## 🌴 Currently Growing
 ---
